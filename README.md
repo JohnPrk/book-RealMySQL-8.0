@@ -1,6 +1,7 @@
 # Real MySQL 북스터디
 
 ## 스터디 내용
+![image](https://user-images.githubusercontent.com/51287461/222952736-82f6c415-afa7-4c21-a486-65562d62af4e.png)
 
 [Real MySQL 8.0 1권](https://product.kyobobook.co.kr/detail/S000001766482)
 
